@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 4,
+    "description": "Textures for §fPC Edition§r\n§bCreated By:§f §dMotionless"
+},
+"language": {
+"en_us": {
+"name": "English",
+"region": "US",
+"bidirectional": false
+}
+}
+}
